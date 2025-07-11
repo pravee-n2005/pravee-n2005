@@ -77,15 +77,6 @@ I'm a passionate and creative **Computer Science & Engineering (CSE)** undergrad
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenAdithya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenAdithya&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 - 🔗 [LinkedIn] (https://www.linkedin.com/in/praveen-adithya-b-7bb79b275)/
