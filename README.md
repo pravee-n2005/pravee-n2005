@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Praveen Adithya!
+# 👋 Hi there, I'm Praveen Adithya B!
 
 I'm a passionate and creative **Computer Science & Engineering (CSE)** undergraduate with a specialization in **Big Data Analytics**. Currently in my 3rd year, I enjoy turning ideas into reality through code. From building fun games and prediction systems to full-stack applications and data visualizations, I aim to create projects that are not only functional but also impactful and visually engaging.
 
