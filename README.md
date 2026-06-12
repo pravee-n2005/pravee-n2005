@@ -1,90 +1,185 @@
-# 👋 Hi there, I'm Praveen Adithya B!
+# Hi, I'm Praveen Adithya 👋
 
-I'm a passionate and creative **Computer Science & Engineering (CSE)** undergraduate with a specialization in **Big Data Analytics**. Currently in my 3rd year, I enjoy turning ideas into reality through code. From building fun games and prediction systems to full-stack applications and data visualizations, I aim to create projects that are not only functional but also impactful and visually engaging.
+### Full Stack Developer | AI & Data Analytics Enthusiast | Software Engineer
 
-my-portfolio: https://portfolio-ruby-mu-49.vercel.app/
-
----
-
-## 🚀 About Me
-
-- 💡 Strong interest in **Python**, **Data Science**, **Web Development**, and **Finance**
-- 🛠️ Building projects that solve real-world problems — from education and automation to sports analytics
-- 📈 Exploring **stock market prediction** with **AI models** and **interactive dashboards**
-- 💻 Actively learning and building with a strong focus on **projects**, **hands-on learning**, and **sharing knowledge**
-- 📊 Learning to use **Power BI**, **SSRS**, and dashboards to visualize complex data clearly and effectively
-- 🌐 Dedicated to building a **Water Neutrality Awareness** platform using full-stack web development
+Building production-grade web applications, AI-powered solutions, and data-driven products.
 
 ---
 
-## 🧠 Currently Learning
+## About Me
 
-- 🔄 **Advanced Python** (NumPy, Pandas, Matplotlib, TensorFlow)
-- 📊 **LSTM & Stock Forecasting** using `yfinance`, Streamlit, and model saving/loading
-- 🌐 **Full-stack Web Development** — HTML, CSS, JS, React, Node.js, Django
-- 🧩 **Data Structures & Algorithms** for coding interviews
-- 💹 Basics of **long-term stock investing** and financial analysis
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- Python, JavaScript, C++, HTML5, CSS3
-
-### 🌐 Frontend
-- React.js, Tailwind CSS, Vanilla JS, GSAP, Bootstrap
-
-### ⚙️ Backend & Tools
-- Node.js, Express.js, Django (basics), Git, GitHub, VS Code, PyCharm
-
-### 🧩 Database
-- PostgreSQL, SQLite, MySQL, MongoDB
-
-### 📊 Data & AI
-- Pandas, NumPy, Matplotlib, TensorFlow, scikit-learn, yfinance, Streamlit, Power BI
+* 🎓 B.Tech Computer Science (Big Data Analytics) at SRM Institute of Science and Technology
+* 💼 Software Developer Intern at BIGIN Insurance Brokers Pvt Ltd
+* 🌱 Currently building a full-stack Insurance Management Platform
+* 🤖 Interested in AI, Machine Learning, SaaS, and Product Engineering
+* 🚀 Passionate about solving real-world business problems through technology
 
 ---
 
-## 📂 Featured Projects
+## Tech Stack
 
-### 🧠 Stock Price Predictor
-- Built with LSTM to predict future stock prices based on historical data
-- Multivariate input (Open, High, Low, Volume) and 7-day future forecasting
-- Streamlit UI with dark/light theme, real-time charts using Plotly, model saving/loading
+### Languages
 
-### 🏁 F1 Project
-- Formula 1 data-based project analyzing driver stats, race results, and performance
-- Great for motorsport enthusiasts with data visualizations, dashboards, or possibly prediction models
+Python • JavaScript • TypeScript • SQL • Java
 
-### 📊 Student Management System
-- Web application built using Django
-- Allows tracking of student performance with integrated graphs and analytics
+### Frontend
 
-### 🍔 Food Delivery System
-- Full-stack application simulating a food ordering platform
-- Includes ER diagrams, use case diagrams, system architecture, and working backend
+React • Next.js • HTML • CSS • Tailwind CSS
 
-### ♟️ Chess Game
-- Built using HTML, CSS, and JavaScript
-- Features AI moves, piece movement highlighting, animations, move history, score tracking
+### Backend
 
-### 📝 Task Notifiers
-- Sends automated email alerts for pending tasks
-- Combines backend logic with cron-like scheduling for regular updates
+Node.js • Express.js • REST APIs
 
-### 🌍 Water Neutrality Awareness Platform
-- Informational web platform with animations, dropdowns, registration, and SQLite integration
-- Designed to educate users and spread awareness about environmental sustainability
+### Database
+
+PostgreSQL • Prisma ORM
+
+### AI / ML
+
+TensorFlow • Scikit-Learn • Pandas • NumPy • CNN • LSTM
+
+### Tools
+
+Git • GitHub • Postman • VS Code • Google Cloud
 
 ---
 
-## 📬 Let's Connect
+## Featured Projects
 
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/praveen-adithya-b-7bb79b275)/
-- 🌐 Portfolio: *Coming soon with cool animations & advanced features!*
-- 📧 Reach out for collaboration, open-source projects, or just to say hi!
+### BIGIN Insurance Management Platform
+
+Enterprise-grade insurance management system designed to replace manual Excel workflows.
+
+**Features**
+
+* Policy Management
+* Customer Management
+* Invoice Generation
+* Reporting & Analytics
+* Role-Based Access Control
+* Authentication & Authorization
+
+**Tech Stack**
+React • Node.js • Express • PostgreSQL • Prisma
 
 ---
 
-> *“Code. Learn. Build. Repeat.” — That’s how I grow every day.*
+### Clean Breath – AI-Powered Urban Carbon Monitoring
+
+Award-winning IoT and AI solution for real-time pollution monitoring.
+
+**Achievement**
+🏆 1st Place – CHEMOVATE 2.0 Hardware Edition
+
+**Tech Stack**
+ESP32 • Next.js • TypeScript • REST APIs • Recharts
+
+---
+
+### Smart Farming Assistant
+
+CNN-LSTM based crop disease prediction system.
+
+**Highlights**
+
+* 89.2% Accuracy
+* 38 Disease Classes
+* Google Cloud Deployment
+
+---
+
+### F1 Race Analytics Dashboard
+
+Machine learning powered race prediction and analytics dashboard.
+
+**Tech Stack**
+Python • Pandas • Random Forest • Streamlit
+
+---
+
+## Experience
+
+### Software Developer Intern — BIGIN Insurance Brokers Pvt Ltd
+
+*May 2026 – Present*
+
+* Building a secure insurance management platform
+* Developing reporting and policy modules
+* Working with React, Node.js, PostgreSQL, and Prisma
+* Digitizing end-to-end insurance operations
+
+### Web Development Intern — Codebind Technologies
+
+*June 2024*
+
+* Developed client-facing web applications
+* Worked on frontend implementation and UI enhancements
+
+### Python Programmer Intern — CodSoft
+
+*October 2024*
+
+* Built automation-focused Python applications
+* Applied OOP and clean coding principles
+
+---
+
+## Achievements
+
+* 🏆 1st Place – CHEMOVATE 2.0 Hardware Edition
+* 🚀 HackTheHorizon Hackathon Participant
+* 🎯 Sponsorship Coordinator – Texus Tech Fest
+* 🤝 Student Volunteer – ExNoRa International Foundation
+
+---
+
+## Certifications
+
+* IBM – Python for Data Science
+* Udemy – Learn Python Programming: Beginner to Master
+
+---
+
+## Coding Profiles
+
+* LeetCode: https://leetcode.com/u/praveenadithya/
+* HackerRank: https://www.hackerrank.com/profile/praveenadithya01
+* CodeChef: https://www.codechef.com/users/fit_cape_41
+* GeeksforGeeks: https://www.geeksforgeeks.org/profile/praveenadith2641
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - Cloud Architecture
+  - Advanced PostgreSQL
+
+Building:
+  - BIGIN Insurance Management Platform
+
+Exploring:
+  - SaaS Development
+  - AI Engineering
+  - Product Design
+
+OpenTo:
+  - Internships
+  - Freelance Projects
+  - Open Source Collaboration
+```
+
+---
+
+## Connect With Me
+
+* Email: [praveenadithya03102005@gmail.com](mailto:praveenadithya03102005@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/praveen-adithya-b-7bb79b275/
+* GitHub: https://github.com/pravee-n2005
+* Portfolio: https://portfolio-ruby-mu-49.vercel.app/
+
+---
+
+*"Building software that creates real business impact."*
