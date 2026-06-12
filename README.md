@@ -315,7 +315,7 @@ Building a secure full-stack insurance management platform using React, Node.js,
 # GitHub Trophies
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=pravee-n2005&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<image src = "[![trophy](https://github-profile-trophy.vercel.app/?username=pravee-n2005&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)"/>
 </p>
 
 ---
