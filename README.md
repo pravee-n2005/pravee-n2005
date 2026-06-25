@@ -10,7 +10,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/SRMIST-B.Tech%20Big%20Data%20Analytics-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.33-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.56-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-blueviolet?style=for-the-badge"/>
 </p>
 
@@ -88,9 +88,9 @@ Currently working as a **Software Developer Intern at BIGIN Insurance Brokers Pv
 
 | Domain           | Proficiency  | Details                                    |
 | ---------------- | ------------ | ------------------------------------------ |
-| Machine Learning | Advanced     | Predictive analytics and model development |
-| Deep Learning    | Advanced     | CNN and LSTM architectures                 |
-| Data Analytics   | Advanced     | Pandas, NumPy, Visualization               |
+| Machine Learning | Intermediate | Predictive analytics and model development |
+| Deep Learning    | Intermediate | CNN and LSTM architectures                 |
+| Data Analytics   | Intermediate | Pandas, NumPy, Visualization               |
 | AI Applications  | Intermediate | End-to-end AI integrations                 |
 | Data Engineering | Intermediate | Data pipelines and preprocessing           |
 | Cloud ML         | Intermediate | Google Cloud deployments                   |
