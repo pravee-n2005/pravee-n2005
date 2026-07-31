@@ -1,4 +1,4 @@
-# Hi 👋, I'm Praveen Adithya
+# Hi 👋, I'm Praveen Adithya B
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:8A2BE2,100:4B0082&text=Praveen%20Adithya&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Product%20Builder&descAlignY=60"/>
