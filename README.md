@@ -328,14 +328,14 @@ Building and maintaining a full-stack insurance management platform using React,
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pravee-n2005&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./profile/stats.svg"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravee-n2005&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
 </p>
