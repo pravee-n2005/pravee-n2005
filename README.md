@@ -327,13 +327,17 @@ Building and maintaining a full-stack insurance management platform using React,
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pravee-n2005&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=pravee-n2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravee-n2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravee-n2005&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
