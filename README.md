@@ -371,7 +371,20 @@ Currently building practical expertise through projects and hands-on learning in
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pravee-n2005/pravee-n2005/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pravee-n2005/pravee-n2005/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pravee-n2005/pravee-n2005/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/pravee-n2005/pravee-n2005/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
