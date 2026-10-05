@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SRMIST-B.Tech%20Big%20Data%20Analytics-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-8.56-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.52-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-blueviolet?style=for-the-badge"/>
 </p>
 
