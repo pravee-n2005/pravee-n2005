@@ -139,6 +139,49 @@ NEXBIT is initially exploring operational challenges faced by **insurance agenci
 # 🚀 Featured Projects
 
 <details>
+<summary><b>🤖 AI Engineering Agent — AI-Assisted Repository Analysis</b></summary>
+
+### An AI Engineering Agent with Safe, Evidence-Based Code Analysis
+
+<p>
+  <a href="https://github.com/pravee-n2005/ai-engineering-agent">
+    <img src="https://img.shields.io/badge/GitHub-Repository-blueviolet?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+  </a>
+  <a href="https://ai-engineering-agent-xptt.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20API-Render-46E3B7?style=for-the-badge&logo=render" alt="Live API on Render"/>
+  </a>
+</p>
+
+| Category | Details |
+|---|---|
+| Stack | Python, FastAPI, LangGraph |
+| Engineering | Docker, GitHub Actions, automated tests |
+| Core workflow | Repository inspection and selected code-quality checks |
+| Output | Structured findings, evidence, and recommendations |
+| Safety | Approval-gated patch workflow; repository inspection designed around read-only access |
+| Deployment | FastAPI service deployed on Render |
+
+### Overview
+
+An AI engineering project focused on helping inspect a code repository, run selected deterministic checks, and return structured findings with supporting evidence and recommendations. The project emphasizes safe, reviewable engineering workflows instead of blindly applying code changes.
+
+### Implemented Capabilities
+
+- FastAPI service with health and analysis endpoints
+- Repository inspection against the bundled demo repository
+- Syntax checks and selected code-quality checks
+- Structured evidence and actionable recommendations
+- Approval-gated workflow for proposed patches
+- Automated tests and GitHub Actions workflow
+- Containerized deployment workflow
+
+### Live Demo
+
+The deployed service exposes an API rather than a graphical dashboard at present. Open the [live API](https://ai-engineering-agent-xptt.onrender.com) or the [GitHub repository](https://github.com/pravee-n2005/ai-engineering-agent) to explore the project. The analysis workflow currently targets the bundled demo repository; arbitrary user-repository analysis is not claimed as an existing capability.
+
+</details>
+
+<details>
 <summary><b>🏢 BIGIN Insurance Management Platform</b></summary>
 
 ### Enterprise Insurance Management System
