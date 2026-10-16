@@ -49,6 +49,8 @@ Currently working as a **Software Developer Intern at BIGIN Insurance Brokers Pv
 
 I enjoy building software that solves real business problems and I'm currently expanding my skills in **Cloud, DevOps, Backend Engineering, AI Engineering, and MLOps**.
 
+I’m also building **NEXBIT**, an early-stage AI and software engineering startup with the tagline **“Intelligence Into Impact.”** Through NEXBIT, I’m exploring practical AI applications, custom software, intelligent automation, and cloud/platform solutions that help businesses work more effectively.
+
 ### Open To
 
 - Software Engineering Roles
@@ -58,6 +60,26 @@ I enjoy building software that solves real business problems and I'm currently e
 - AI / ML Engineering Opportunities
 - Open Source Collaboration
 - Freelance Projects
+
+---
+
+# 🚀 Building NEXBIT — Intelligence Into Impact
+
+**NEXBIT** is my early-stage AI and software engineering initiative focused on building useful technology that solves real business problems.
+
+### What NEXBIT Is Exploring
+
+- **AI Engineering** — practical AI-powered applications and assistants
+- **Software Engineering** — custom web applications, APIs, and backend systems
+- **Intelligent Automation** — reducing repetitive workflows through software and AI
+- **Cloud & Platform Engineering** — deployment, infrastructure, and reliable services
+- **Software Products** — developing product ideas around validated customer needs
+
+### Initial Customer Discovery
+
+NEXBIT is initially exploring operational challenges faced by **insurance agencies and brokers**, with an emphasis on understanding real workflows before proposing or building solutions. This is an initial market focus, not a permanent limitation.
+
+*Current stage: customer discovery, service definition, and early product validation.*
 
 ---
 
